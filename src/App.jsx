@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import useFetch from "./hooks/useFetch"
-import Layout from "./layouts/layout"
+import Layout from "./layouts/Layout"
 import AddEdit from "./components/AddEdit"
 import UserList from "./components/UserList"
 import Modal from "./components/Modal"
